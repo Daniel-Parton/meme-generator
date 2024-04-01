@@ -1,1 +1,3 @@
-# meme-generator
+# 🥸 Meme Generator
+
+WIP
